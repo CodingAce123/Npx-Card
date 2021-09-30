@@ -1,0 +1,37 @@
+{
+  "name": "aaryan",
+  "version": "2.3.4",
+  "description": "A personal npx Card for Aaryan Bizoara (@MasterCoder1234567890)",
+  "main": "card.js",
+  "bin": {
+    "aaryan": "./card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterCoder1234567890/npx_card.git"
+  },
+  "scripts": {
+    "test": "node card.js",
+    "pub": "npm version major & npm publish"
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "cli-spinners": "^2.5.0",
+    "inquirer": "^7.3.2",
+    "open": "^7.0.4",
+    "ora": "^5.1.0",
+    "request": "^2.88.2"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "author": "Aaryan Bizoara (https://aaryanbizoara.whjr.site/)",
+  "license": "ISC"
+}
