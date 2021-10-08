@@ -1,7 +1,7 @@
 {
   "name": "aaryan",
-  "version": "1.0.0",
-  "description": "A personal npx Card for Aaryan Bizoara (@CodingAce123)",
+  "version": "2.3.4",
+  "description": "A Personal npx Card for Aaryan Bizoara (@CodingAce123)",
   "main": "card.js",
   "bin": {
     "aaryan": "./card.js"

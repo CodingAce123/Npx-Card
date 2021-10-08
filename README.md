@@ -14,7 +14,7 @@ And Get to Know Me in a Unique Style.
 ### A Guide To Know Me Better....
 The Final Output may Look Something Like This:-
 
-![demo](https://github.com/MasterCoder1234567890/Npx-Card/blob/master/Demo.gif)
+![demo](https://github.com/CodingAce123/Npx-Card/blob/master/Demo.gif)
 
 
 <hr/>
