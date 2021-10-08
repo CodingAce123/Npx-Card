@@ -41,12 +41,12 @@ const questions = [
 
 const data = {
     name: chalk.bold.green("                            Aaryan Bizoara"),
-    handle: chalk.white("@MasterCoder1234567890"),
+    handle: chalk.white("@CodingAce123"),
     work: `${chalk.white("Student at")} ${chalk
         .hex("#f50a5c")
         .bold("WhiteHat Juniour")}`,
      roblox:  chalk.grey("https://web.roblox.com/users/1992108766/profile"),
-     github:  chalk.white("https://github.com/MasterCoder1234567890"),
+     github:  chalk.white("https://github.com/CodingAce123"),
     youtube:  chalk.red("https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg"),
      twitch:  chalk.yellow("https://twitch.tv/fireinthetail123"),
     discord:  chalk.magenta("https://discord.gg/4CpjK2vveY"),
@@ -85,7 +85,7 @@ const me = boxen(
         `${data.labelCard}  ${data.npx}`,
         ``,
         `${chalk.italic(
-            chalk.redBright("Hey, I am Aaryan, a.k.a MasterCoder1234567890")
+            chalk.redBright("Hey, I am Aaryan, a.k.a CodingAce123")
         )}`,
         `${chalk.italic(
             chalk.blueBright("I am a Student, A Sport Lover and A Coder!")
