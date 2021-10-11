@@ -1,14 +1,14 @@
 {
   "name": "aaryan",
-  "version": "2.3.4",
-  "description": "A Personal npx Card for Aaryan Bizoara (@CodingAce123)",
+  "version": "2.4.5",
+  "description": "A Personal Npx Card for Aaryan Bizoara (@CodingAce123)",
   "main": "card.js",
   "bin": {
     "aaryan": "./card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodingAce123/npx_card.git"
+    "url": "git+https://github.com/CodingAce123/Npx-Card.git"
   },
   "scripts": {
     "test": "node card.js",
