@@ -1,6 +1,6 @@
 {
   "name": "aaryan",
-  "version": "2.4.5",
+  "version": "2.6.0",
   "description": "A Personal Npx Card for Aaryan Bizoara (@CodingAce123)",
   "main": "card.js",
   "bin": {
